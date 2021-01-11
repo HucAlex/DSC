@@ -1,0 +1,10 @@
+{
+    "password"  :  "password",
+    "id": "id-ul de locare a persoanei",
+    "libaryCardID" : "criptat/serie  numerica",
+    "firstName": "Alex",
+    "lastName": "Huc",
+    "age": 21,
+    "book" : "Agonie si Extaz",
+    "author" : "Irving Stone"
+}
